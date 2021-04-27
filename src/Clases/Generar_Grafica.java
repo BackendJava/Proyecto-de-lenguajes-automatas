@@ -14,10 +14,7 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * Clase para generar la imagen.
- * @author mynor
- */
+
 public class Generar_Grafica {
     /**
      * Metodo que retorna un booleano me sirve para llamar al programa hacer una imagen y guardarla

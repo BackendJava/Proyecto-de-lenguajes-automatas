@@ -7,10 +7,7 @@ package Clases;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author mynor
- */
+
 public class ValidarPalabra {
 
     /**

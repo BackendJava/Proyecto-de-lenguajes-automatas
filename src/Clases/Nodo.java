@@ -7,10 +7,6 @@ package Clases;
 
 import java.util.ArrayList;
 
-/**
- * Clase nodo que contiene todos mis atributos para mis estados
- * @author mynor
- */
 public class Nodo {
     //Declaración del los atributos de mis estados
     private ArrayList<Integer> MoverA;

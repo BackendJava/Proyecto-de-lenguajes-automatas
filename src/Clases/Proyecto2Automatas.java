@@ -7,10 +7,7 @@ package Clases;
 
 import Formularios.Principal;
 
-/**
- *
- * @author mynor
- */
+
 public class Proyecto2Automatas {
 
     /**
